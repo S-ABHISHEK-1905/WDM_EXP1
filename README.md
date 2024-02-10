@@ -1,5 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE    : 10.02.2024
+#### NAME    : S.ABHISHEK
+#### REG.NO. : 212221230002
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,8 +55,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+#### EMPLOYEE TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/9744c514-a338-4d1c-8599-36c995aa13bd)
 
+#### WEATHER TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/732f0e92-13fd-4dfb-8481-8f9e1914cf5e)
 
 
@@ -78,8 +82,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+#### EMPLOYEE TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/282d64d3-b447-4360-8009-6c6e2da3adae)
 
+#### WEATHER TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/84baaa81-1988-46ae-b1a9-1238f1350092)
 
 
@@ -98,9 +104,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-
+#### EMPLOYEE TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/53560a0c-7c0c-49e9-a41e-1115590dc94b)
 
+#### WEATHER TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/32af72a2-4eae-4d03-8152-dfcf33f0dcbc)
 
 
@@ -119,8 +126,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+#### EMPLOYEE TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/0838cfcb-ccd5-490b-81a2-e647e9dd6feb)
 
+#### WEATHER TABLE
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP1/assets/66360846/0f55c327-2f2f-44d0-87b8-5a7c57b7f2bd)
 
 ### RESULT: 
